@@ -5,9 +5,7 @@ This project demonstrates the development and implementation of a deep learning 
 ## Project Overview
 
 - **Project Name**: Fraud Detection Using Deep Learning Models
-- **Module Title**: B9AI104 Deep Learning
-- **Instructor**: Shahram Azizi Sazi
-- **Author**: Ali Wahaj (20026654)
+- **Author**: Ali Wahaj
 
 ## Colab Notebook
 
